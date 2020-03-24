@@ -27,7 +27,7 @@ Bullet list:
   * pears
 
 Numbered list:
-
+  
   1. lather
   2. rinse
   3. repeat
