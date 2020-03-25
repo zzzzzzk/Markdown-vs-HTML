@@ -22,3 +22,5 @@ HTML是Hyper Text Markup Language.
 
 我发现md和html语言中图片名不能带空格（正如github的repository（库）也不能有空格（空格换成了-），github的用户名也是！）  
 图片名后缀还分大小写。
+
+段落按html（<hr />)或markdown（双空格并回车）会断线，否则会一直向右直到显示界面最右端断线。
