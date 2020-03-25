@@ -11,11 +11,13 @@ HTML是Hyper Text Markup Language.
 
 ![](/html.png)
 
-![](/html-on-edge.PNG)
+![](/html-on-edge.png)
 
 这是Markdown及其在GitHub的呈现：
 ------------------------------
 
-![](/markdown.PNG)
+![](/markdown.png)
 
 ![](/markdown-on-github.png)
+
+我发现md和html语言中图片名不能带空格，正如github的repository（库）也不能有空格（空格换成了-），github的用户名也是！
