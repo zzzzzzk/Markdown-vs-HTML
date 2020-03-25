@@ -21,7 +21,6 @@ Strikethrough:
 ~~strikethrough~~
 
 Bullet list:
-
   * apples
   * oranges
   * pears
