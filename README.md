@@ -10,7 +10,7 @@ HTML是Hyper Text Markup Language.
 
 ![](/html.png)
 
-![](/html on edge.png)
+![](/html on edge.PNG)
 
 这是Markdown及其在GitHub的呈现：
 
