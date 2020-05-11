@@ -1,6 +1,5 @@
 Markdown——what you see is what you get
 ======================================
-
 这是Markdown的[维基百科](https://en.wikipedia.org/wiki/Markdown),内有清晰的对照表，说明应该有软件Markdown转换HTML。
 
 HTML是Hyper Text Markup Language.  
